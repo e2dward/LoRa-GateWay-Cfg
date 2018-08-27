@@ -1,5 +1,6 @@
 # LoRa-GateWay-Cfg
 The configuration file required by the packet forwarder in LoRa GateWay at https://github.com/Lora-net/packet_forwarder
+
 How to use(here is SX1301+raspberry pi):
 
 $cd home
